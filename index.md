@@ -1,9 +1,3 @@
-
-
-# Triton API Documentation
-
----
-
 ## Table of Contents
 
 1. [API Authentication](#api-authentication)
